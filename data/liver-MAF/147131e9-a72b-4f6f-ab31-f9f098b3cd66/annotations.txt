@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+7a7f84fc-032c-47b0-b7fe-6ad0c1ccea3c	\N	masked_somatic_mutation	147131e9-a72b-4f6f-ab31-f9f098b3cd66	General	Notification	2022-02-28T12:50:25.650542-06:00	Approved	Variants from SomaticSniper are not included.
+2fb13dfd-c6e3-5077-bbeb-194271b83ad6	28421	case	c60eb7be-c85c-4338-a20b-51948d43bf2a	Item is noncanonical	Notification	2015-06-24T00:00:00	Approved	Extension set. Only DNA from tumor and normal shipped.

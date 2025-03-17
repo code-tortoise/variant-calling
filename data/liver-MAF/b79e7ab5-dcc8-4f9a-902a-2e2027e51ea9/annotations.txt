@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+397055d3-3312-40c0-b29b-cfc59a504e13	\N	masked_somatic_mutation	b79e7ab5-dcc8-4f9a-902a-2e2027e51ea9	General	Notification	2022-02-28T16:20:15.819209-06:00	Approved	Variants from SomaticSniper are not included.
+6690cc82-a939-5327-9247-6cebec2b5dfd	15991	case	a2c17e87-d8bc-4160-88ae-e3e894d013e4	History of acceptable prior treatment related to a prior/other malignancy	Notification	2013-04-25T00:00:00	Approved	Patient had a prior prostate adenocarcinoma and received regional radiation. No systemic chemotherapy.

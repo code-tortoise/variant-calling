@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4bf6863e-0707-4b9d-a06b-4bc6bf8a02be	\N	masked_somatic_mutation	584b9d0d-d485-4587-bb58-df2e639654fa	General	Notification	2022-02-28T14:38:57.361603-06:00	Approved	Variants from SomaticSniper are not included.
+67cae150-0bdc-51af-926e-7c14d5b6e1dc	15993	case	a196a937-b17d-4d4a-965b-8af0f4f41367	Prior malignancy	Notification	2013-04-25T00:00:00	Approved	Patient had a prior tumor in the back. No systemic chemotherapy or radiation.
