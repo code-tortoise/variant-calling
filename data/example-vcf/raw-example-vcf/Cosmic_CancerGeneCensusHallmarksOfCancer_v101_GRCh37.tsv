@@ -1,0 +1,100 @@
+GENE_SYMBOL	COSMIC_GENE_ID	CELL_TYPE	PUBMED_PMID	HALLMARK	IMPACT	DESCRIPTION	CELL_LINE
+STK11	COSG6606	thyroid gland carcinoma	35912012	angiogenesis	suppresses	ectopic expression reduces VEGFA expression, and tube formation by HUVECs cultured in conditioned medium	B-CPAP, TPC-1
+STK11	COSG6606		11509733	angiogenesis	promotes	mouse embryos homozygous for a null allele display defective maturation of primary blood vessels	
+STK11	COSG6606	lung adenocarcinoma	35988018	escaping programmed cell death	suppresses	KD decreases cell apoptosis	Calu-6
+STK11	COSG6606	pancreatic ductal adenocarcinoma	14511408	escaping programmed cell death	suppresses	overexpression in promoter hypermethylation-silenced cells increases mitochondrial pathway-mediated apoptosis	AsPC-1
+STK11	COSG6606	large cell lung carcinoma	30784288	invasion and metastasis	suppresses	KD increases cell migration and invasion in vitro, and lung cell metastasis in a mouse model	NCI-H1299
+STK11	COSG6606	thyroid gland carcinoma	35912012	invasion and metastasis	suppresses	ectopic overexpression decreases cell migration and invasion	B-CPAP, TPC-1
+STK11	COSG6606		26413869	tumour promoting inflammation		endometrial adenocarcinomas developed by endometrial epithelium-specific KO mice have an increased level of inflammatory cytokine and macrophage chemoattractant CCL2, and are infiltrated by primarily tumour-promoting M2 macrophages	
+STK11	COSG6606		30049881	tumour promoting inflammation	suppresses	mice heterozygous for a null allele develop gastrointestinal polyps characterised by increased inflammatory cytokine and activated STAT3 expression, and inflammatory monocyte and neutrophil infiltration	
+STK11	COSG6606		24550282	change of cellular energetics		KO in mouse embryonic fibroblasts promotes HIF1A-mediated aerobic glycolysis and glutaminolysis	
+STK11	COSG6606	cervical cancer	24792998	suppression of growth	promotes	expression in deficient cells decreases cell proliferation	HeLa
+STK11	COSG6606	lung adenocarcinoma	35988018	suppression of growth	promotes	KD increases cell proliferation in vitro and the growth of mouse xenograft tumours	Calu-6
+STK11	COSG6606	melanoma	12552571	suppression of growth	promotes	expression in deficient cells suppresses cell proliferation	G-361
+STK11	COSG6606	lung adenocarcinoma	27687306	escaping immune response to cancer		tumours affected by mutation display a lower level of CD4+ and CD8+ T cell infiltration	
+STK11	COSG6606	lung adenocarcinoma	35988018	escaping immune response to cancer	suppresses	KD decreases the cytotoxicity of co-cultured NK cells and their IFN-gamma secretion, and NK cells display reduced chemotactic migration towards KD cell culture medium supernatant	Calu-6, NK92
+STK11	COSG6606		26833127	escaping immune response to cancer	suppresses	KRAS p.G12D-driven lung tumours borne by KO mice contain an increased number of neutrophils, associated with reduced infiltration by T cells, which display decreased activity and of which a higher proportion of CD4 cells are regulatory T cells	
+STK11	COSG6606	aortic endothelial cell	33040052	senescence		ectopic expression reduces replicative senescence	
+STK11	COSG6606		18172296	senescence		overexpression in 7,12-dimethylbenzanthracene-induced mouse squamous cell carcinoma cells heterozygous for a null allele induces senescence	
+STK11	COSG6606	cervical cancer	19340305	role in cancer	TSG	TSG	
+STK11	COSG6606	MCL	36126964	role in cancer	fusion	fusion	
+STK11	COSG6606	NSCLC	21532627	role in cancer	TSG	TSG	
+STK11	COSG6606	pancreatic ductal adenocarcinoma	10362809	role in cancer	TSG	TSG	
+STK11	COSG6606	cutaneous melanoma	28781649	clinical impact		promoter methylation is associated with a shorter overall survival	
+STK11	COSG6606	lung adenocarcinoma	29773717	clinical impact		mutations in KRAS-mutated tumours are associated with resistance to PD-1 inhibitors	
+SUFU	COSG6011	multiple hereditary infundibulocystic basal cell carcinoma syndrome	26677003	types of alteration in cancer		germline splice site-affecting variant	
+SUFU	COSG6011	pleural mesothelioma	34580349	types of alteration in cancer		encompassed in a 10q24.32 deletion in 21.2% of tumours	
+SUFU	COSG6011		16155214	differentiation and development		mouse embyros homozygous for a null allele have neural tube defects and heart abnormalities, and die in utero by embryonic day 10.5	
+SUFU	COSG6011		28560839	differentiation and development		conditional KO in mouse cerebellar neuronal precursor cells impairs cerebellar morphogenesis and delays neuronal differentiation	
+SUFU	COSG6011		23752195	cell division control		KO in keratinoctyes heterozygous for a null allele leads to arrest in cell cycle stage G2	
+SUFU	COSG6011		12068298	impact of mutation on function		medulloblastoma C-terminal truncating splice variant c.1022+1G>A eliminates GLI1 binding and suppression of GLI-mediated transcriptional activation	
+SUFU	COSG6011		27234298	impact of mutation on function		medulloblastoma somatic mutation p.S352F increases protein binding to E3 ubiquitin ligase Fbxl17, and an increased rate of proteolytic degradation	
+SUFU	COSG6011		28030567	impact of mutation on function		basal cell carcinoma mutations p.R146*, p.Q199*, p.W464* and p.E376K diminish binding to GLI1, and eliminate the growth suppressive effect of the wild-type gene	
+SUFU	COSG6011		29725392	function summary		a negative regulator of the hedgehog signalling pathway, which prevents Gli1 and 2 transcription factor nuclear translocation and suppresses Gli protein transcriptional activity, and putatively of canonical Wnt signalling	
+SUFU	COSG6011	astrocytoma	25373737	angiogenesis		KD increases tube formation in an assay of vasculogenic mimicry	U-251MG
+SUFU	COSG6011		33759282	angiogenesis	suppresses	KD increases the formation of tubes by umbilical vein endothelial cells	
+SUFU	COSG6011	breast adenocarcinoma	31692053	escaping programmed cell death		overexpression in deficient, and paclitaxel or cisplatin-resistant, cells increases serum-free culture associated apoptosis	MDA-MB-231
+SUFU	COSG6011	CCRCC	34021128	invasion and metastasis	suppresses	KD leads to increased cell migration and invasion	HK-2
+SUFU	COSG6011	cervical SCC	29371981	invasion and metastasis	promotes	KD decreases cell migration and invasion	HCC94, SiHa
+SUFU	COSG6011	lung adenocarcinoma	26462018	invasion and metastasis	suppresses	overexpression decreases cell migration and invasion in vitro, and lung metastasis in a mouse model	A549
+SUFU	COSG6011	CCRCC	34021128	suppression of growth	promotes	KD increases cell proliferation	HK-2
+SUFU	COSG6011	GBM	25373737	suppression of growth	promotes	ectopic expression in low endogenously expressing cells decreases cell proliferation in vitro, and mouse orthotopic xenograft tumour growth	U-87MG
+SUFU	COSG6011	medulloblastoma	29753700	role in cancer	TSG	TSG	
+SUFU	COSG6011	NSCLC	30555633	clinical impact		gene deletions in stage I/II tumours are associated with a shorter relapse-free survival	
+SUFU	COSG6011		21882258	mouse model		TP53 KO mice heterozygous for a null allele develop medulloblastoma (57.1%) and rhabdomyosarcoma (4.7%)	
+SUFU	COSG6011	basal cell carcinoma	26950094	types of alteration in cancer		8.4% of sporadic tumours carry a synonymous mutation (primarily missense, but also truncating)	
+SUFU	COSG6011	basal cell carcinoma, medulloblasoma, meningioma	35768194	types of alteration in cancer		putative pathogenic germline variants are associated with an increased risk of developing different tumour types in early childhood and adulthood, respectively	
+SUFU	COSG6011	GIST	27974047	types of alteration in cancer		a missense mutation is present in 8.3% of tumours that lack gene mutations causally associated with 85% of tumours	
+SUFU	COSG6011	Gorlin syndrome	25403219	types of alteration in cancer		affected individuals in 11.1% of families are heterozygous for a germline nonsense/missense mutation, or intra-genic deletion, associated with an increased risk of developing medulloblastoma	
+PAX3	COSG34345	rhabdomyosarcoma	19953635	fusion partner		NCOA2	
+PAX3	COSG34345		15956257	escaping programmed cell death	promotes	KD induces apoptosis 	
+PAX3	COSG34345	melanoma	24903325	suppression of growth	promotes	Pax3 phosphorylated at Ser209 inhibits the proliferative capacity of both primary and metastatic tumour cells	
+PAX3	COSG34345	melanoma	24903325	proliferative signalling	promotes	phosphorylation at Ser201 enhances the proliferative capacity of the metastatic cell line 	
+PAX3	COSG34345	melanoma	24903325	invasion and metastasis	promotes	the absence of phosphorylation at Ser205 promotes the invasive capacity of both primary and metastatic cells	
+PAX3	COSG34345	brainstem progenitors	25330836	escaping programmed cell death	promotes	inhibits apoptosis	
+PAX5	COSG21945	ALL	17179230	fusion partner		ELN	
+PAX5	COSG21945	ALL	17897302	fusion partner		PML	
+PAX5	COSG21945		22127921	function summary		transcription factor,  a master regulator of B cell development	
+PAX5	COSG21945		17851532	role in cancer	TSG	haploinsufficient TSG	
+PAX5	COSG21945	B-cell malignancies	17851532	differentiation and development		conditional deletion of Pax5 in mice allowed mature B cells from peripheral lymphoid organs to dedifferentiate in vivo back to early uncommitted progenitors in the bone marrow	
+PAX5	COSG21945	B-NHL	15942942	fusion partner		IGH	
+PAX5	COSG21945	B-cell lymphoma 	17717600	invasion and metastasis	promotes	promotes lymphomagenesis through stimulation of B cell receptor signaling, KD negatively affected cell expansion	
+PAX5	COSG21945	breast cancer	18497074	proliferative signalling	promotes	changes mediated by Pax5 are responsible for autocrine hGH-induced cell proliferation	MCF-7
+PAX5	COSG21945	B-cell	18617575	escaping programmed cell death		suppression of B isoform of Pax5 leads to an increase of CD19 and Pax5A isoform expression, and increases apoptotic activity	REH
+PAX5	COSG21945	multiple myeloma	20882442	escaping programmed cell death	suppresses	overexpression of PAX5 induces apoptosis	
+PAX5	COSG21945	hepatocellular carcinoma	21319196	types of alteration in cancer		frequently methylated	
+PAX5	COSG21945	hepatocellular carcinoma	21319196	escaping programmed cell death	suppresses	restoring PAX5 expression in silenced cell lines suppressed cell proliferation, induced apoptosis in vitro, and inhibited tumour growth in nude mice	
+PAX5	COSG21945		17179230	role in cancer	fusion	fusion	
+PAX5	COSG21945		21319196	role in cancer	TSG	TSG	
+PAX5	COSG21945		17717600	role in cancer	oncogene	oncogene	
+PAX7	COSG32058	embryonal rhabdomyosarcoma	24554430	proliferative signalling	promotes	enhances cell proliferation by reducing MyoD levels in a proteasome-dependent manner	
+PAX7	COSG32058		7530783	role in cancer	fusion	fusion	
+PAX7	COSG32058		15277541	differentiation and development		during muscle regeneration quiescent satellite cells are synchronously activated to coexpress the transcription factors Pax7 and MyoD, most then proliferate, down-regulate Pax7, and differentiate, other proliferating cells maintain Pax7 but lose MyoD and withdraw from immediate differentiation 	
+PAX7	COSG32058		11030621	differentiation and development		required for the specification of myogenic satellite cells 	
+PAX7	COSG32058	sarcoma	26234681	invasion and metastasis	promotes	Pax7 can promote metastasis in vivo through MyoD-dependent regulation of pro-metastatic miR-182 	
+PAX7	COSG32058	alveolar rhabdomyosarcoma	7530783	fusion partner		FOXO1	
+PAX7	COSG32058		16397527	function summary		transcription factor	
+PAX8	COSG20950	ovarian cancer	24766781	invasion and metastasis	promotes	KD reduces migration and invasion ability, essential for anchorage-independent growth of SKOV-3 cells, expression induces EMT	
+PAX8	COSG20950	glioblastoma	24602166	escaping programmed cell death	promotes	stimulates expression of antiapoptotic BCL2 and promotes survival 	
+PAX8	COSG20950		16728576	role in cancer	fusion	fusion	
+PAX8	COSG20950		16397527	function summary		transcription factor	
+PAX8	COSG20950	thyroid papillary carcinoma 	16728576	fusion partner		PPARG	
+PAX8	COSG20950		15077183	impact of mutation on function		fusion oncoprotein transforms immortalized human thyrocytes through a mechanism probably involving wild-type PPARG inhibition 	
+PAX8	COSG20950	ovarian cancer	24766781	proliferative signalling	promotes	KD reduces proliferation	
+PBRM1	COSG24832	renal cancer	27100670	global regulation of gene expression		re-expression in cells with inactive PBRM1 triggers upregulation of genes involved in cellular adhesion, carbohydrate metabolism, apoptotic process and response to hypoxia, and downregulation of genes involved in different stages of cell division	
+PBRM1	COSG24832		21654818	function summary		chromatin-targeting subunit of the polybromo BRG1-associated factor SWI/SNF chromatin remodeling complex (PBAF)	
+PBRM1	COSG24832	mouse embryonic stem cells	24613357	genome instability and mutations	suppresses	KD promotes aberrant centromeric cohesion, chromosome instability and aneuploidy	
+PBRM1	COSG24832	clear cell renal cell carcinoma	21248752	invasion and metastasis	suppresses	KD increases cell migration	
+PBRM1	COSG24832	clear cell renal cell carcinoma	27100670	change of cellular energetics	promotes	ectopic expression reduces cellular glucose uptake and alters the cellular cholesterol ester profile	Caki2
+PBRM1	COSG24832	breast cancer	18339845	suppression of growth	promotes	ectopic expression upregulates p21 and inhibits proliferation	HCC1143
+PBRM1	COSG24832	clear cell renal cell carcinoma	21248752	suppression of growth	promotes	KD increases proliferation	
+PBRM1	COSG24832	malignant mesothelioma	27834213	suppression of growth	promotes	KD increases proliferation	PPM-Mill
+PBRM1	COSG24832	bladder cancer	25978027	suppression of growth	promotes	overexpression suppresses proliferation	UMUC-3, EJ, 5637
+PBRM1	COSG24832	mouse melanoma	29301958	escaping immune response to cancer	promotes	confers resistance to T-cell mediated killing as part of the PBAF complex	B16F10
+PBRM1	COSG24832	human fibroblasts	20660729	senescence		KD delays senescence	BJ
+PBRM1	COSG24832	clear cell renal cell carcinoma	21248752	role in cancer	TSG	TSG	
+PBRM1	COSG24832	clear cell renal cell carcinoma	29426696	clinical impact		loss of expression is associated with worse prognosis	
+PBRM1	COSG24832	clear cell renal cell carcinoma	29301960	clinical impact		loss-of-function mutations are associated with better response to anti-PD-1 immune checkpoint therapy	
+PBRM1	COSG24832	clear cell renal cell carcinoma	28329682	mouse model		double Pbrm1 and Vhl deficient animals develop multifocal tumours with hyperactive mTORC signalling	
+PBRM1	COSG24832	renal cancer	27727438	types of alteration in cancer		recurrent E846X	
+PBRM1	COSG24832	clear cell renal cell carcinoma	21248752	types of alteration in cancer		frequent truncating mutations	

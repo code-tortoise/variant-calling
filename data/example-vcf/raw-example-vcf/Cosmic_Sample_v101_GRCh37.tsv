@@ -1,0 +1,100 @@
+COSMIC_SAMPLE_ID	SAMPLE_NAME	COSMIC_PHENOTYPE_ID	TUMOUR_ID	SAMPLE_TYPE	INDIVIDUAL_ID	WHOLE_GENOME_SCREEN	WHOLE_EXOME_SCREEN	TARGETED_SCREEN	RNASEQ_SCREEN	REARRANGEMENT_SCREEN	TUMOUR_SOURCE	NORMAL_TISSUE_TESTED	GENDER	AGE	THERAPY_RELATIONSHIP	SAMPLE_DIFFERENTIATOR	MUTATION_ALLELE_SPECIFICATION	MSI	AVERAGE_PLOIDY	SAMPLE_REMARK	DRUG_RESPONSE	GRADE	AGE_AT_TUMOUR_RECURRENCE	STAGE	CYTOGENETICS	METASTATIC_SITE	TUMOUR_REMARK	ETHNICITY	ENVIRONMENTAL_VARIABLES	GERMLINE_MUTATION	THERAPY	FAMILY	INDIVIDUAL_REMARK
+COSS1443669	1443669	COSO28395278	1367914	surgery - NOS	1318088	n	n	y	n	n	NS		u					Unknown				Some Grade data are given in publication						Korean					
+COSS2639084	2639084	COSO29645573	2499457	surgery fresh/frozen	2347166	n	n	y	n	n	NS		u					Unknown															
+COSS2423953	2423953	COSO29914826	2286874	surgery - NOS	2138509	n	n	y	n	n	NS		u					Unknown											Smoking status				
+COSS2346018	2346018	COSO27985050	2210681	blood-bone marrow	2066626	n	n	y	n	n	NS		u					Unknown										Tunisian					
+COSS2088991	2088991	COSO27985143	1967200	blood-bone marrow	1866979	n	n	y	n	n	NS		u					Unknown															
+COSS1656103	1656103	COSO29915674	1570760	pleural effusion	1508964	n	n	y	n	n	NS		f					Unknown			Some gefitinib response data are given in publication							Japanese	Smoking status				
+COSS1414879	1414879	COSO29914862	1324920	NS	1291829	n	n	y	n	n	NS		u					Unknown															
+COSS1118305	1118305	COSO27984905	1031790	blood-bone marrow	1005999	n	n	y	n	n	NS	y	u					Unknown										Korean					
+COSS989357	989357	COSO27984905	904676	blood-bone marrow	885574	n	n	y	n	n	NS		u					Unknown															
+COSS973580	973580	COSO28864826	889675	NS	870915	n	n	y	n	n	NS		u					Unknown															
+COSS2966647	D2L1-3-P-3	COSO31396524	2817366	surgery fresh/frozen	2650565	y	n	n	n	n	NS	y	m	63.0		Sample 1 of 2, parabasal layer microbiopsy		Unknown											No alcohol intake;Non-smoker				
+COSS2681000	2681000	COSO28394862	2540273	surgery - NOS	2386719	n	n	y	n	n	primary	y	u					Unknown										Korean					
+COSS1689605	1689605	COSO28864826	1597912	surgery-fixed	1534866	n	n	y	n	n	NS		u					Unknown										Mexican					Age=More than 50 years
+COSS1501415	1501415	COSO27984920	1424294	blood-bone marrow	1373318	n	n	y	n	n	NS	y	u					Unknown									Paediatric ALL (Paediatric ALL)						
+COSS1904241	1904241	COSO27984905	1792919	blood-bone marrow	1709587	n	n	y	n	n	primary		u					Unknown															
+COSS2859889	2859889	COSO36286294	2715177	surgery fresh/frozen	2551503	n	n	y	n	n	NS	y	f					Unknown															
+COSS1433857	1433857	COSO28864826	1343272	surgery-fixed	1310147	n	n	y	n	n	NS		u					Unknown										Chinese					
+COSS2776880	1345	COSO279810976	2635016	blood-bone marrow	2475105	n	n	y	n	n	NS	n	u					Unknown															
+COSS1159979	1159979	COSO27984905	1072315	blood-bone marrow	1045999	n	n	y	n	n	NS		u					Unknown									Childhood ALL (Childhood AML)						
+COSS736923	S54666	COSO28864826	658682	NS	639721	n	n	y	n	n	primary	n	u					Unknown															
+COSS2463799	2463799	COSO27985045	2326636	blood-bone marrow	2176463	n	n	y	n	n	NS		u					Unknown															
+COSS1073694	1073694	COSO27984912	988948	blood-bone marrow	965250	n	n	y	n	n	NS		u					Unknown															
+COSS1122719	1122719	COSO28394862	1035763	surgery - NOS	1009874	n	n	y	n	n	primary		u					Unknown				Some Grade data are given in publication											
+COSS1496985	1496985	COSO31355381	1419864	surgery-fixed	1368930	n	n	y	n	n	primary		u					Unknown															
+COSS1373551	HuH-28	COSO27814826	1283592	cell-line	1250559	n	n	y	n	n	NS		u					Unknown															
+COSS2639243	2639243	COSO29645573	2499616	surgery fresh/frozen	2347325	n	n	y	n	n	NS		u					Unknown															
+COSS1012311	1012311	COSO27985193	929485	blood-bone marrow	907041	n	n	y	n	n	NS		m					Unknown															
+COSS2013172	2013172	COSO30135463	1895804	surgery-fixed	1803284	n	n	y	n	n	NS	y	f					Unknown										Chinese					
+COSS2890753	2890753	COSO29914826	2745241	NS	2581036	n	n	y	n	n	NS		u					Unknown										Chinese					
+COSS1373651	HUn94-T29	COSO29825606	1283692	surgery - NOS	1250659	n	n	y	n	n	primary		u					Unknown											Hepatitis B virus-negative				
+COSS2929933	2929933	COSO27985099	2783106	blood-bone marrow	2617981	n	n	y	n	n	NS		u		Sample taken before autologous stem cell transplantation and chemotherapy			Unknown							complex								
+COSS1016391	1016391	COSO27985143	933565	blood-bone marrow	911009	n	n	y	n	n	NS		u					Unknown															
+COSS2406709	2406709	COSO27985193	2269589	blood-bone marrow	2120448	n	n	y	n	n	NS		u					Unknown															
+COSS694599	S15887	COSO27604818	622315	surgery fresh/frozen	603354	n	n	y	n	n	primary	n	u					Unknown															
+COSS921654	15	COSO27964862	838614	fresh/frozen - NOS	820448	n	n	y	n	n	primary	y	u					Unknown				Some Grade data are given in publication		Some Stage data are given in publication									
+COSS2546160	2546160	COSO33496047	2407640	surgery-fixed	2258355	n	n	y	n	n	NS		f	67.0				Unknown											Merkel cell polyomavirus positive				
+COSS2129957	2129957	COSO27604818	2004021	surgery fresh/frozen	1896754	n	n	y	n	n	primary	y	f	79.0				Unknown						Some Stage data are given in publication									
+COSS1530121	1530121	COSO283919555	1452493	surgery fresh/frozen	1399953	n	n	y	n	n	primary		u					Unknown				Some Grade data are given in publication											
+COSS1768867	1768867	COSO27984905	1673107	blood-bone marrow	1606797	n	n	y	n	n	NS		u					Unknown															Age=Adult
+COSS1799576	1799576	COSO31375226	1701312	surgery-fixed	1633124	n	n	y	n	n	NS	y	u					Unknown															
+COSS2582904	3N09-VS-3T09	COSO31394830	2444159	surgery - NOS	2294133	y	n	n	n	n	NS	y	m	59.0				Unknown				3		IIIA				Han Chinese	Smoker		No prior therapy	Family history of oesophageal cancer	
+COSS1275639	1275639	COSO27985197	1186937	blood-bone marrow	1158861	n	n	y	n	n	NS		u					Unknown															
+COSS1450021	1450021	COSO30135332	1374164	surgery - NOS	1324076	n	n	y	n	n	NS		f					Unknown															
+COSS992088	992088	COSO27984912	907344	blood-bone marrow	888112	n	n	y	n	n	NS		u					Unknown															
+COSS2416046	2416046	COSO28864826	2278931	surgery-fixed	2129939	n	n	y	n	n	NS		u					Unknown										Brazilian					
+COSS1872318	1872318	COSO27984912	1763024	blood-bone marrow	1684100	n	n	y	n	n	NS		u					Unknown															
+COSS1213790	1213790	COSO29915674	1125657	surgery - NOS	1098555	n	n	y	n	n	NS		u					Unknown						Some Stage data are given in publication					Smoking status				
+COSS2899529	2899529	COSO28514830	2753775	surgery-fixed	2589396	n	n	y	n	n	NS	n	f		Pretreatment sample			Unknown						II (FIGO)				Japanese	Human papilloma virus-positive		Individual was treated with chemoradiotherapy		
+COSS2441292	2441292	COSO28864826	2304131	surgery-fixed	2155770	n	n	y	n	n	NS		u					Unknown															
+COSS2113281	2113281	COSO279810573	1987528	blood-bone marrow	1882042	n	n	y	n	n	NS		u					Unknown															
+COSS2212566	2212566	COSO36986172	2080769	surgery-fixed	1964152	n	n	y	n	n	NS		m	25.0				Unknown															
+COSS1377122	1377122	COSO28245229	1287163	NS	1254122	n	n	y	n	n	NS		u					Unknown															
+COSS2951568	2951568	COSO29915674	2804126	surgery-fixed	2638447	n	n	y	n	n	NS		m					Unknown															
+COSS690211	S11862	COSO27984905	618321	surgery-fixed	599360	n	n	y	n	n	primary	n	u					Unknown															
+COSS2683081	2683081	COSO27984905	2542354	blood-bone marrow	2389350	n	n	y	n	n	NS	y	u					Unknown															
+COSS738084	S57492	COSO28864837	661260	surgery fresh/frozen	642299	n	n	y	n	n	primary	y	u					Unknown															
+COSS1122896	1122896	COSO279810975	1035939	blood-bone marrow	1010049	n	n	y	n	n	NS		u					Unknown															
+COSS2390842	2390842	COSO27985197	2253674	blood-bone marrow	2104471	n	n	y	n	n	NS		u					Unknown															
+COSS1658323	1658323	COSO29005899	1572713	surgery fresh/frozen	1510775	n	n	y	n	n	NS		u					Unknown															
+COSS2502563	2502563	COSO27985197	2364913	blood-bone marrow	2216114	n	n	y	n	n	NS		u					Unknown															
+COSS1544046	1544046	COSO27984905	1466206	blood-bone marrow	1412812	n	n	y	n	n	NS		u					Unknown															
+COSS1365813	1365813	COSO29915674	1275854	NS	1242827	n	n	y	n	n	NS		u					Unknown															
+COSS2861114	T-002-3rd-cfDNA	COSO27964862	2716394	circulating tumour	2552644	n	n	y	n	n	NS	y	m	51.0	Sample analysed after chemotherapy (231 days of chemotherapy)			Unknown													No prior systemic therapy		
+COSS1376694	1376694	COSO30134862	1286735	NS	1253694	n	n	y	n	n	NS		u					Unknown															
+COSS1004552	1004552	COSO27984905	921764	blood-bone marrow	899504	n	n	y	n	n	NS		u					Unknown															
+COSS2837413	2837413	COSO279811050	2693188	surgery-fixed	2530251	n	n	y	n	n	NS		u					Unknown															
+COSS1898447	NB-2074	COSO27774843	1787131	NS	1705547	n	y	n	n	n	NS		u					Unknown															
+COSS1198894	1198894	COSO28584826	1110784	surgery-fixed	1083827	n	n	y	n	n	NS		u					Unknown									Tumour does not show microsatellite instability (Tumour does not show microsatellite instability)						
+COSS2758945	2758945	COSO29914826	2617495	surgery fresh/frozen	2457935	n	n	y	n	n	NS	y	m	55.2				Unknown											Asbestos exposure;Current smoker				
+COSS2644345	2644345	COSO29915674	2504632	surgery - NOS	2352287	n	n	y	n	n	NS		u					Unknown															
+COSS1484933	1484933	COSO27984920	1408554	blood-bone marrow	1357865	n	n	y	n	n	primary		m					Unknown									Paediatric ALL (Paediatric ALL)						
+COSS2085758	2085758	COSO28245232	1964041	surgery-fixed	1863884	n	n	y	n	n	NS		u					Unknown										Indian					
+COSS1587934	1587934	COSO29915674	1509105	surgery-fixed	1453835	n	n	y	n	n	NS		u					Unknown						Some Stage data are given in publication				Caucasian					
+COSS1703083	1703083	COSO28864826	1611192	surgery-fixed	1547745	n	n	y	n	n	primary		u					Unknown				Some Grade data are given in publication		Some Stage data are given in publication									
+COSS2094297	2094297	COSO27985197	1972389	blood-bone marrow	1868736	n	n	y	n	n	NS		u					Unknown															
+COSS877391	NCI-H2227	COSO29915333	796606	cell-line	779119	n	n	y	n	n	NS	n	u					Unknown	2.50887944873312														
+COSS1325935	1325935	COSO31804837	1236431	surgery fresh/frozen	1207445	n	n	y	n	n	NS		u					Unknown										Italian					
+COSS2309867	2309867	COSO27985045	2175065	blood-bone marrow	2038549	n	n	y	n	n	NS		u					Unknown						Some Stage data are given in publication									
+COSS1367188	1367188	COSO28394862	1277229	NS	1244198	n	n	y	n	n	NS		u					Unknown															
+COSS1814507	1814507	COSO28864826	1713697	surgery-fixed	1644036	n	n	y	n	n	NS		u					Unknown				Some Grade data are given in publication		Some Stage data are given in publication									
+COSS1044815	1044815	COSO36004826	961156	surgery-fixed	938190	n	n	y	n	n	primary	y	u					Unknown						Some Stage data are given in publication				Korean					
+COSS1552365	1552365	COSO28864826	1474471	surgery-fixed	1420836	n	n	y	n	n	NS		u					Unknown															
+COSS845186	S64565	COSO28395278	764843	surgery fresh/frozen	747353	n	n	y	n	n	primary	n	u					Unknown															
+COSS2360694	2360694	COSO27985050	2223995	blood-bone marrow	2075343	n	n	y	n	n	NS		u					Unknown										Sudanese					
+COSS1870701	1870701	COSO27984910	1761407	blood-bone marrow	1682483	n	n	y	n	n	NS		u					Unknown															
+COSS1648514	1648514	COSO28864826	1563469	surgery fresh/frozen	1502819	n	n	y	n	n	metastasis	y	m	63.0				Unknown								liver							
+COSS2148595	2148595	COSO29914826	2017725	NS	1907733	n	n	y	n	n	NS		u					Unknown						Some Stage data are given in publication				Japanese	Smoking status				
+COSS1364367	1364367	COSO29604826	1274408	NS	1241381	n	n	y	n	n	NS		u					Unknown															
+COSS1939091	1939091	COSO29914826	1826015	fine needle aspirate	1738453	n	n	y	n	n	NS		u					Unknown											Smoking status				
+COSS1529716	1529716	COSO28066614	1452088	surgery-fixed	1399548	n	n	y	n	n	NS		u					Unknown				Some Grade data are given in publication											
+COSS1480274	PD6120a	COSO279817535	1403933	NS	1353505	n	n	y	n	n	NS		u					Unknown															
+COSS2047378	2047378	COSO27984905	1927660	blood-bone marrow	1831761	n	n	y	n	n	primary		u					Unknown															Age=Child
+COSS2011436	2011436	COSO29915674	1894074	surgery - NOS	1801807	n	n	y	n	n	NS		u					Unknown						Some Stage data are given in publication				Caucasian	Smoking status				
+COSS2236624	2236624	COSO27984905	2104128	blood-bone marrow	1983829	n	n	y	n	n	primary		u					Unknown													No prior granulocyte-colony stimulating factor (G-CSF) therapy		
+COSS1450515	1450515	COSO28664826	1374658	surgery-fixed	1324548	n	n	y	n	n	primary		u					Unknown				Some Grade data are given in publication		Some Stage data are given in publication									
+COSS730774	S50589	COSO29024826	654826	surgery-fixed	635865	n	n	y	n	n	primary	n	f					Unknown															
+COSS2396468	2396468	COSO27984920	2259295	blood-bone marrow	2110048	n	n	y	n	n	NS		u					Unknown										Indian					
+COSS2245140	2245140	COSO30137383	2112416	NS	1991961	n	n	y	n	n	NS		u					Unknown										Korean					
+COSS2547504	2547504	COSO36286294	2408959	surgery - NOS	2259624	n	n	y	n	n	primary		u					Unknown						I									
